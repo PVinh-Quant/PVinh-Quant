@@ -22,6 +22,8 @@
 
 <a href="https://github.com/Mop-pry/Kairos"><img align="left" width="57%" src="asset/skills/kairos_v3.svg"/></a>
 
+<img align="left" width="57%" src="asset/skills/note.svg"/>
+
 <div align="right">
 
 <img src="asset/skills/skills_board.svg" width="40%"/>
@@ -29,6 +31,10 @@
 <br/>
 
 <img src="asset/skills/lang_board.svg" width="40%"/>
+
+<br/>
+
+<img src="asset/skills/tools_board.svg" width="40%"/>
 
 </div>
 

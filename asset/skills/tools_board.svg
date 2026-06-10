@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 364 260" width="364" height="260">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 364 340" width="364" height="340">
 <defs><style>
     @font-face {
       font-family: 'P2';
@@ -7,26 +7,34 @@
     .title { font-family: 'Segoe UI','Noto Sans',sans-serif; font-size: 14px; font-weight: bold; fill: #3d4e8a; }
     .skill { font-family: 'P2', monospace; font-size: 11px; }
   </style></defs>
-<rect x="0" y="0" width="364" height="260" fill="none" stroke="#3b4261" stroke-width="1"/>
-<text x="182" y="28" class="title" text-anchor="middle">[ DATA / ML ]</text>
-<rect x="15" y="51" width="164" height="34" fill="none" stroke="#9ece6a" stroke-width="1"/>
-<text x="97" y="73" font-family="'P2',monospace" font-size="10px" fill="#9ece6a" text-anchor="middle">Pandas</text>
-<rect x="185" y="51" width="164" height="34" fill="none" stroke="#7aa2f7" stroke-width="1"/>
-<text x="267" y="73" font-family="'P2',monospace" font-size="10px" fill="#7aa2f7" text-anchor="middle">NumPy</text>
-<rect x="15" y="91" width="164" height="34" fill="none" stroke="#bb9af7" stroke-width="1"/>
-<text x="97" y="113" font-family="'P2',monospace" font-size="10px" fill="#bb9af7" text-anchor="middle">Polars</text>
+<rect x="0" y="0" width="364" height="340" fill="none" stroke="#3b4261" stroke-width="1"/>
+<text x="182" y="28" class="title" text-anchor="middle">[ CÔNG CỤ &amp; NỀN TẢNG ]</text>
+<rect x="15" y="51" width="164" height="34" fill="none" stroke="#7aa2f7" stroke-width="1"/>
+<text x="97" y="73" font-family="'P2',monospace" font-size="10px" fill="#7aa2f7" text-anchor="middle">Docker</text>
+<rect x="185" y="51" width="164" height="34" fill="none" stroke="#bb9af7" stroke-width="1"/>
+<text x="267" y="73" font-family="'P2',monospace" font-size="10px" fill="#bb9af7" text-anchor="middle">Git</text>
+<rect x="15" y="91" width="164" height="34" fill="none" stroke="#9ece6a" stroke-width="1"/>
+<text x="97" y="113" font-family="'P2',monospace" font-size="10px" fill="#9ece6a" text-anchor="middle">Linux</text>
 <rect x="185" y="91" width="164" height="34" fill="none" stroke="#2ac3de" stroke-width="1"/>
-<text x="267" y="113" font-family="'P2',monospace" font-size="10px" fill="#2ac3de" text-anchor="middle">PyArrow</text>
-<rect x="15" y="131" width="164" height="34" fill="none" stroke="#f7768e" stroke-width="1"/>
-<text x="97" y="153" font-family="'P2',monospace" font-size="10px" fill="#f7768e" text-anchor="middle">PyTorch</text>
-<rect x="185" y="131" width="164" height="34" fill="none" stroke="#9ece6a" stroke-width="1"/>
-<text x="267" y="153" font-family="'P2',monospace" font-size="10px" fill="#9ece6a" text-anchor="middle">sklearn</text>
-<rect x="15" y="171" width="164" height="34" fill="none" stroke="#bb9af7" stroke-width="1"/>
-<text x="97" y="193" font-family="'P2',monospace" font-size="10px" fill="#bb9af7" text-anchor="middle">Optuna</text>
+<text x="267" y="113" font-family="'P2',monospace" font-size="10px" fill="#2ac3de" text-anchor="middle">ZeroMQ</text>
+<rect x="15" y="131" width="164" height="34" fill="none" stroke="#e0af68" stroke-width="1"/>
+<text x="97" y="153" font-family="'P2',monospace" font-size="10px" fill="#e0af68" text-anchor="middle">DuckDB</text>
+<rect x="185" y="131" width="164" height="34" fill="none" stroke="#e0af68" stroke-width="1"/>
+<text x="267" y="153" font-family="'P2',monospace" font-size="10px" fill="#e0af68" text-anchor="middle">MySQL</text>
+<rect x="15" y="171" width="164" height="34" fill="none" stroke="#e0af68" stroke-width="1"/>
+<text x="97" y="193" font-family="'P2',monospace" font-size="10px" fill="#e0af68" text-anchor="middle">SQLite</text>
 <rect x="185" y="171" width="164" height="34" fill="none" stroke="#7dcfff" stroke-width="1"/>
-<text x="267" y="193" font-family="'P2',monospace" font-size="10px" fill="#7dcfff" text-anchor="middle">ONNX</text>
-<rect x="15" y="211" width="164" height="34" fill="none" stroke="#e0af68" stroke-width="1"/>
-<text x="97" y="233" font-family="'P2',monospace" font-size="10px" fill="#e0af68" text-anchor="middle">Matplotlib</text>
-<rect x="185" y="211" width="164" height="34" fill="none" stroke="#2ac3de" stroke-width="1"/>
-<text x="267" y="233" font-family="'P2',monospace" font-size="10px" fill="#2ac3de" text-anchor="middle">ta</text>
+<text x="267" y="193" font-family="'P2',monospace" font-size="10px" fill="#7dcfff" text-anchor="middle">PyQt6</text>
+<rect x="15" y="211" width="164" height="34" fill="none" stroke="#f7768e" stroke-width="1"/>
+<text x="97" y="233" font-family="'P2',monospace" font-size="10px" fill="#f7768e" text-anchor="middle">Selenium</text>
+<rect x="185" y="211" width="164" height="34" fill="none" stroke="#9ece6a" stroke-width="1"/>
+<text x="267" y="233" font-family="'P2',monospace" font-size="10px" fill="#9ece6a" text-anchor="middle">ccxt</text>
+<rect x="15" y="251" width="164" height="34" fill="none" stroke="#f7768e" stroke-width="1"/>
+<text x="97" y="273" font-family="'P2',monospace" font-size="10px" fill="#f7768e" text-anchor="middle">Backtrader</text>
+<rect x="185" y="251" width="164" height="34" fill="none" stroke="#7aa2f7" stroke-width="1"/>
+<text x="267" y="273" font-family="'P2',monospace" font-size="10px" fill="#7aa2f7" text-anchor="middle">Power BI</text>
+<rect x="15" y="291" width="164" height="34" fill="none" stroke="#bb9af7" stroke-width="1"/>
+<text x="97" y="313" font-family="'P2',monospace" font-size="10px" fill="#bb9af7" text-anchor="middle">Power Query</text>
+<rect x="185" y="291" width="164" height="34" fill="none" stroke="#2ac3de" stroke-width="1"/>
+<text x="267" y="313" font-family="'P2',monospace" font-size="10px" fill="#2ac3de" text-anchor="middle">Power Automate</text>
 </svg>

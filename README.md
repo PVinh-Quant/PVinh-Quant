@@ -18,9 +18,9 @@
 
 <img align="left" width="57%" src="asset/skills/bio.svg"/>
 
-<a href="https://github.com/Mop-pry/Kairos-v2"><img align="left" width="57%" src="asset/skills/kairos_v2.svg"/></a>
+<a href="https://github.com/PVinh-Quant/Kairos-v2"><img align="left" width="57%" src="asset/skills/kairos_v2.svg"/></a>
 
-<a href="https://github.com/Mop-pry/Kairos"><img align="left" width="57%" src="asset/skills/kairos_v3.svg"/></a>
+<a href="https://github.com/PVinh-Quant/Kairos-v2"><img align="left" width="57%" src="asset/skills/kairos_v3.svg"/></a>
 
 <img align="left" width="57%" src="asset/skills/note.svg"/>
 
